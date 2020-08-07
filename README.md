@@ -13,6 +13,4 @@
   
 📫 How to reach me: https://twitter.com/_atulpandey
 
-😄 Pronouns: He/ Him/ His
-
 :musical_keyboard: I play Keyboard, Guitar and flute.
