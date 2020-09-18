@@ -11,6 +11,8 @@
    
 :heart:  I have mostly worked on Java.
   
-📫 How to reach me: https://twitter.com/_atulpandey
+📫 How to reach me: 
+- https://twitter.com/_atulpandey
+- https://www.linkedin.com/in/atulpandey98/
 
 :musical_keyboard: I play Keyboard, Guitar and flute.
