@@ -1,9 +1,9 @@
 ### Hi there 👋
 
  
-🔭 I’m currently working on a Website.
+🔭 I’m currently working on a Pomodoro Webapp.
 
-🌱 I’m currently learning Web Development.
+🌱 I’m currently learning Web Development more particulary React.
 
 :boom: Also improving my Data Structures and Algorithms skills.
 
