@@ -1,7 +1,7 @@
 ### Hi there 👋
 
  
-🔭 I’m currently working on a Pomodoro Webapp.
+🔭 I’m currently working on a Rest Countries Webapp.
 
 🌱 I’m currently learning Web Development more particulary React.
 
