@@ -1,7 +1,7 @@
 ### Hi there 👋
 
  
-🔭 I’m a Software Developer focused on Web Development.
+🔭 I’m working towards becoming a Full Stack Developer.
 
 🌱 Skills : HTML, CSS, Javascript, Angular, Java.
   
