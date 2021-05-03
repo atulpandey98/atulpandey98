@@ -8,4 +8,4 @@
 📫 How to reach me: 
 - https://www.linkedin.com/in/atulpandey98/
 
-:musical_keyboard: I play Keyboard, Guitar and flute.
+💙 Along side coding I love to play musical instruments and read books
