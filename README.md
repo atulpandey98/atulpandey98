@@ -1,9 +1,9 @@
 ### Hi there 👋
 
  
-🔭 I’m working towards becoming a Full Stack Developer.
+🔭 I'm a software developer who has worked on variety of tech stacks and domains.
 
-🌱 Skills : HTML, CSS, Javascript, Angular, Java.
+🌱 Skills : Flutter, Dart, HTML, CSS, Javascript, Typescript, Angular, Java.
   
 📫 How to reach me: 
 - https://www.linkedin.com/in/atulpandey98/
